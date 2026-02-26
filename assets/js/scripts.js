@@ -4,7 +4,7 @@ const CONFIG = {
   waDisplay: "+62 838-3436-6608",
   instagramUrl: "https://instagram.com/",
 
-  typingWords: ["UMKM Batuah", "Produk Rumah Tangga", "Parfum & Kopi"],
+  typingWords: ["UMKM Batuah"],
 
   aboutImages: [
     "./assets/images/about/toko1.jpg",
